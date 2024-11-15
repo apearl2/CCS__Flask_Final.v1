@@ -45,3 +45,16 @@ Project Timeline:
 11/8 - Created pythonanywhere account, username: iscollegesearch
 
 11/9 - Entire program works, now improving accuracy on P ultiStr searching (Some attributes are missed)			Accuracy improved
+
+11/10 - Released full program on pythonanywhere, now dealing with many logical errors
+          First - fixed error with averageA, fixed CF / 2 error, reset all variables
+          
+11/11 - Top 10/top 20 option added, reset more, pythonanywhere website working better
+
+11/13 - Began researching next sources
+		CollegeVine (Like P structure) -> for 		intendMajor             Research
+		CollegeTransitions (all from blog, but uniform HTMl structure) -> for Career services, college town
+
+11/14 - Started working on filter List by acceptance rates
+	Works in trial with list of up to 4 and few attributes
+
